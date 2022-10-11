@@ -1,0 +1,1 @@
+.\dist\x86\self-contained\OpenGitUrl.exe -f .\dist\x86\self-contained\System.Private.CoreLib.dll
